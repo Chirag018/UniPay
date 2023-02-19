@@ -5,8 +5,9 @@ So, the funds are distributed per the communities governance rule ie, and 51% of
 
 There are different criteria for getting grants, among them: some are:
 
-improvement of UniPay Website, or the latest features to it
-Bug Fixes or Reducing the complexity of the project
-Bringing new partners to the community
-Distributing the UniPay brand to the community, and so on.
+* improvement of UniPay Website, or the latest features to it
+* Bug Fixes or Reducing the complexity of the project
+*Bringing new partners to the community
+*Distributing the UniPay brand to the community, 
+and so on.
 UniPay is a payment system that receives funds from different organizations, people, and many more for distributing suitable needs to society.
