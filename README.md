@@ -10,4 +10,6 @@ There are different criteria for getting grants, among them: some are:
 * Bringing new partners to the community
 * Distributing the UniPay brand to the community, 
 and so on.
+
+
 UniPay is a payment system that receives funds from different organizations, people, and many more for distributing suitable needs to society.
